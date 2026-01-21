@@ -24,7 +24,7 @@ export default async function Home() {
             SpaceX Launches
           </h1>
           <p className="text-gray-400 text-sm mt-2">
-            Projeto criado por curiosidade e pra praticar um pouco de Next.js, TypeScript e Tailwind.
+            Projeto criado com base em Next.js, TypeScript e Tailwind.
           </p>
         </div>
       </header>
